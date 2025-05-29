@@ -6,7 +6,7 @@
   "start": "node index.js", 
   "import-sql": "node ./config/import-sql.js",
   "postinstall": "node ./config/import-sql.js"
-}
+},
 
   "keywords": [],
   "author": "",
