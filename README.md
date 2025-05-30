@@ -1,5 +1,5 @@
 
-# 🇸🇪  Swedish Learning App – Backend
+# 🇸🇪  Swedish For All – Backend
 
 Detta är backenddelen av Swedish Learning App – en plattform för språkinlärning riktad till persisktalande som studerar svenska. Backend är byggd med Node.js, Express och MySQL.
 
